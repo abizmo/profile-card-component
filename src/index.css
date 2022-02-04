@@ -11,10 +11,18 @@ body {
   font-family: 'Kumbh Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  height: 95%;
 }
 
 footer {
- font-size: 11px; text-align: center; 
+ font-size: 11px;
+ text-align: center; 
 }
 
 footer a {

@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 
 const Stat = ({ label, value }) => (
   <div className="text-center">
-    <h3 className="font-bold uppercase">{value}</h3>
-    <p className="text-xs">{label}</p>
+    <h3 className="font-bold mb-1 uppercase text-desaturatedBlue">{value}</h3>
+    <p className="text-2xs tracking-widest text-grayishBlue">{label}</p>
   </div>
 );
 

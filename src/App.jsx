@@ -27,7 +27,7 @@ const data = {
 const App = () => {
   const { profile: { age, city, name }, stats } = data;
   return (
-    <div className="border border-black divide-y divide-slate-200 rounded-xl">
+    <div className="divide-y divide-slate-200 mx-auto rounded-xl shadow-xl w-80">
       <Header age={age} city={city} name={name} />
       <Stats stats={stats} />
     </div>
