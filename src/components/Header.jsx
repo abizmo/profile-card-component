@@ -3,14 +3,14 @@ import PropTypes from 'prop-types';
 
 const Header = ({ age, city, name }) => (
   <div>
-    <div className="relative bg-header-pattern h-44 rounded-t-xl">
+    <div className="relative bg-header-pattern h-32 rounded-t-xl">
       <img
-        className="absolute ring-4 ring-white rounded-full -bottom-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2"
+        className="absolute ring-4 ring-white rounded-full -bottom-2/3 -translate-y-1/2 left-1/2 -translate-x-1/2"
         src={`${process.env.PUBLIC_URL}/images/image-victor.jpg`}
         alt="victor"
       />
     </div>
-    <div className="flex flex-col flex-end items-center pt-20 pb-7">
+    <div className="flex flex-col flex-end items-center pt-16 pb-5">
       <div className="mb-2">
         <h1 className="font-bold text-desaturatedBlue">
           {name}
