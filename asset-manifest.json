@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/profile-card-component/static/css/main.ab4bb308.css",
-    "main.js": "/profile-card-component/static/js/main.cbf9916a.js",
+    "main.css": "/profile-card-component/static/css/main.4b2eb360.css",
+    "main.js": "/profile-card-component/static/js/main.f7dfbbb7.js",
+    "static/media/bg-pattern-card.svg": "/profile-card-component/static/media/bg-pattern-card.b61daebd3cb4b885d10f.svg",
     "index.html": "/profile-card-component/index.html",
-    "main.ab4bb308.css.map": "/profile-card-component/static/css/main.ab4bb308.css.map",
-    "main.cbf9916a.js.map": "/profile-card-component/static/js/main.cbf9916a.js.map"
+    "main.4b2eb360.css.map": "/profile-card-component/static/css/main.4b2eb360.css.map",
+    "main.f7dfbbb7.js.map": "/profile-card-component/static/js/main.f7dfbbb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab4bb308.css",
-    "static/js/main.cbf9916a.js"
+    "static/css/main.4b2eb360.css",
+    "static/js/main.f7dfbbb7.js"
   ]
 }
