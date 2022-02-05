@@ -20,6 +20,13 @@ module.exports = {
       letterSpacing: {
         widest: '0.15em',
       },
+      spacing: {
+        '26rem': '26rem',
+        '39rem': '39rem',
+      },
+      zIndex: {
+        back: '-1',
+      },
     },
   },
   plugins: [],
